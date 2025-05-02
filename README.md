@@ -2,7 +2,7 @@
 
 ---
 
-### ✨ The Techie Behind the Screen..
+### ✨ About The Techie Behind the Screen..
 
 - 🚀 Tech enthusiast always on the hunt for the next challenge
 - 💻 Currently diving into **Spring Boot**, **React**, **Golang**, **Python**, and a bunch of cool tech
