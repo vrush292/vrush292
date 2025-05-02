@@ -1,8 +1,8 @@
-<h1 align="center">Hi there, I'm Vrushali Karlekar 👋</h1>
+<h1 align="center">Hey, I’m Vrushali! Welcome to my digital space!</h1>
 
 ---
 
-### ✨ About Me
+### ✨ The Techie Behind the Screen..
 
 - 🚀 Tech enthusiast always on the hunt for the next challenge
 - 💻 Currently diving into **Spring Boot**, **React**, **Golang**, **Python**, and a bunch of cool tech
@@ -30,7 +30,7 @@
 
 ---
 
-### 🚀 Projects
+### 🚀 What I’ve Built..
 
 - 🎬 [**Movify**](https://github.com/vrush292/movify) — Movie web app using **Flask** and **TMDB API**
 - 💸 [**Expense Tracker**](https://github.com/vrush292/Expense_Tracker) — Track your expenses and savings with a clean UI
@@ -44,13 +44,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vrush292&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vrush292&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrush292&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-### 📫 Connect With Me
+### 📫 Catch Me Online, Let’s Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vrushali-karlekar-vk4876/">
@@ -64,7 +63,3 @@
 ---
 
 > *"Be so good they can’t ignore you." — Steve Martin*
-
----
-
-<h3 align="center">⚡ Let's build something amazing together! ⚡</h3>
