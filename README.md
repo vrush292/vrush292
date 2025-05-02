@@ -1,6 +1,5 @@
 <h1 align="center">Hey, I’m Vrushali! Welcome to my digital space!</h1>
 
----
 
 ### ✨ About The Techie Behind the Screen..
 
@@ -8,6 +7,7 @@
 - 🔧 Passionate about learning new languages, frameworks, and tools — no tech is off-limits
 
 ---
+
 
 ### 🛠️ Tech Stack
 
