@@ -4,12 +4,8 @@
 
 ### ✨ About The Techie Behind the Screen..
 
-- 🚀 Tech enthusiast always on the hunt for the next challenge
 - 💻 Currently diving into **Spring Boot**, **React**, **Golang**, **Python**, and a bunch of cool tech
-- 🎯 I build things that solve real problems and have a little fun along the way
 - 🔧 Passionate about learning new languages, frameworks, and tools — no tech is off-limits
-- 🔥 Strong believer in doing things my way and always bringing my A-game
-- 🌱 Focused on growth — both personal and professional
 
 ---
 
@@ -30,16 +26,6 @@
 
 ---
 
-### 🚀 What I’ve Built..
-
-- 🎬 [**Movify**](https://github.com/vrush292/movify) — Movie web app using **Flask** and **TMDB API**
-- 💸 [**Expense Tracker**](https://github.com/vrush292/Expense_Tracker) — Track your expenses and savings with a clean UI
-- 🌦️ [**Weather Wizard**](https://github.com/vrush292/weather-wizard) — Real-time weather updates using OpenWeatherMap API
-- 🎯 [**Recommendation System**](https://github.com/vrush292/movie-recommendation-app) — A movie recommendation app using **machine learning**
-- 🧮 [**Calculator**](https://github.com/vrush292/calculator) — Desktop calculator built using **Java**, **Swing**, and deployed with **AWS**
-
----
-
 ### 📫 Catch Me Online, Let’s Connect
 
 <p align="center">
@@ -50,6 +36,10 @@
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
+---
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrush292&layout=compact&theme=radical" alt="Top Languages" />
 
 ---
 
