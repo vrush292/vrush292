@@ -1,9 +1,4 @@
 <h1 align="center">Hi there, I'm Vrushali Karlekar 👋</h1>
-<p align="center">
-  <a href="https://github.com/vrush292">
-    <img src="https://komarev.com/ghpvc/?username=vrush292&label=Profile%20views&color=0e75b6&style=flat" alt="vrush292" />
-  </a>
-</p>
 
 ---
 
@@ -15,8 +10,6 @@
 - 🔧 Passionate about learning new languages, frameworks, and tools — no tech is off-limits
 - 🔥 Strong believer in doing things my way and always bringing my A-game
 - 🌱 Focused on growth — both personal and professional
-
-> *Work hard in silence, let your projects make the noise.*
 
 ---
 
@@ -42,6 +35,16 @@
 - 🌦️ [Weather Wizard](https://github.com/vrush292/weather-wizard) — Real-time weather updates using OpenWeatherMap API
 - 🎯 [Recommendation System](https://github.com/vrush292/movie-recommendation-app) — A movie recommendation app using **machine learning**
 - 🧮 [Calculator](https://github.com/vrush292/calculator) — Desktop calculator built using **Java**, **Swing**, and deployed with **AWS**
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vrush292&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vrush292&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrush292&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
