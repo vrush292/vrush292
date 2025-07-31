@@ -1,12 +1,12 @@
-<h1 align="center">Hey, I’m Vrushali! Welcome to my digital space!</h1>
+<h1 align="center">Hey, I’m Vrushali<br>Welcome to my digital space!</h1>
 
 
-### ✨ About The Techie Behind the Screen..
+### ✨ About The Techie Behind the Screen...
 
-- 💻 Currently diving into **Spring Boot**, **React** and a bunch of cool tech
-- 🔧 Passionate about learning new languages, frameworks, and tools — no tech is off-limits
+- 💻 Currently diving into **Spring Boot**, **ML**, **DSA** and a bunch of cool tech
+- 🔧 Passionate about learning new languages, frameworks, and tools
 - 🌸 For me, coding is more than just writing lines of text; it’s a way to create, innovate, and challenge myself every day.
-
+  
 ---
 
 
@@ -27,7 +27,7 @@
 
 ---
 
-### 📫 Catch Me Online, Let’s Connect
+### 📫 wanna connect? feel free to reach out!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vrushali-karlekar-vk4876/">
