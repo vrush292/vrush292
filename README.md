@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I’m Vrushali<br>Welcome to my digital space!</h1>
+<h1 align="center">Hey, Vrushali here<br>Welcome to my digital space!</h1>
 
 
 ### ✨ About The Techie Behind the Screen...
