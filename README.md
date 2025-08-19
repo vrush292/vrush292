@@ -3,7 +3,7 @@
 
 ### ✨ About The Techie Behind the Screen...
 
-- 💻 Currently diving into **Spring Boot**, **ML**, **DSA** and a bunch of cool tech
+- 💻 Currently diving into **Spring Boot**, **ML**, **React** and a bunch of cool tech
 - 🔧 Passionate about learning new languages, frameworks, and tools
 - 🌸 For me, coding is more than just writing lines of text; it’s a way to create, innovate, and challenge myself every day.
   
