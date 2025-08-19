@@ -46,4 +46,4 @@
 
 ---
 
-> *"Be so good they can’t ignore you." — Steve Martin*
+> *"Do what you can, with what you have, where you are." — Theodore Roosevelt*
